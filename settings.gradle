@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "PermissionUtil"
 include ':app'
+include ':library'
